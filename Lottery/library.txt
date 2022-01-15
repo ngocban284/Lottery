@@ -1,0 +1,5 @@
+    "@truffle/hdwallet-provider": "^1.7.0",  // nhà cung cấp 
+    "ganache-cli": "^6.12.2", //trình trợ giúp test ganache
+    "mocha": "^9.1.3", // trình test thử
+    "solc": "^0.8.10", // trình compile
+    "web3": "^1.6.1" // thư viện giúp tương tác với mạng mưới ethereum cục bộ 
